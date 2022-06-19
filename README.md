@@ -1,4 +1,3 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <h3>Hi! 👋<br>I'm Shaikh Tahmidur Rahman,<br> Full stack web developer and hobbyist programmer</h3>
 
 | <a href="https://github.com/devtahmid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devtahmid&show_icons=true&count_private=true&hide=stars,contribs" alt="Tahmid's github stats" /></a> | <a href="https://github.com/devtahmid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtahmid&layout=compact&theme=buefy&hide_border=true" /></a> |
