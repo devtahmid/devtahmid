@@ -6,14 +6,14 @@
 <a href="https://github.com/devtahmid/Pet-Shop">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Pet-Shop">
 </a>
-<a href="https://github.com/devtahmid/Pharmacy-Management-System">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Pharmacy-Management-System">
+<a href="https://github.com/devtahmid/Tenzies">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Tenzies">
 </a>
 <a href="https://github.com/devtahmid/AuctionWebsite">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=AuctionWebsite">
 </a>
-<a href="https://github.com/devtahmid/Tenzies">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Tenzies">
+<a href="https://github.com/devtahmid/Pharmacy-Management-System">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Pharmacy-Management-System">
 </a>
 <a href="https://github.com/devtahmid/quizzical">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=quizzical">
