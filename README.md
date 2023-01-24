@@ -19,6 +19,9 @@
 <a href="https://github.com/devtahmid/Tenzies">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Tenzies">
 </a>
+<a href="https://github.com/devtahmid/Movie-Search-App/">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Movie-Search-App">
+</a>
 <a href="https://github.com/devtahmid/Digital-Diary">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Digital-Diary">
 </a>
