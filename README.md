@@ -3,6 +3,9 @@
 | <a href="https://github.com/devtahmid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devtahmid&show_icons=true&count_private=true&hide=stars,contribs" alt="Tahmid's github stats" /></a> | <a href="https://github.com/devtahmid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtahmid&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<a href="https://github.com/devtahmid/Rent-Your-Charger">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Rent-Your-Charger">
+</a>
 <a href="https://github.com/adarshsc2000/BlockEstate">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshsc2000&repo=BlockEstate">
 </a>
