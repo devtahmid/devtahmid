@@ -12,7 +12,6 @@
 <a href="https://github.com/adarshsc2000/BlockEstate">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshsc2000&repo=BlockEstate">
 </a>
-<br>
 <a href="https://github.com/devtahmid/Pharmacy-Management-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Pharmacy-Management-System">
 </a>
