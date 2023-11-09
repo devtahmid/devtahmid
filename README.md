@@ -1,4 +1,4 @@
-<h3>Hi! 👋<br>I'm Tahmid,<br> Full stack web developer</h3>
+<h3>Hi! 👋<br>I'm Tahmid,<br> Full stack web developer and an aspiring Data Scientist</h3>
 
 | <a href="https://github.com/devtahmid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devtahmid&show_icons=true&count_private=true&hide=stars,contribs" alt="Tahmid's github stats" /></a> | <a href="https://github.com/devtahmid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtahmid&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
