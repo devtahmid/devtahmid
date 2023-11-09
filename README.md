@@ -9,6 +9,9 @@
 <a href="https://github.com/devtahmid/Rent-Your-Charger">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Rent-Your-Charger">
 </a>
+<a href="https://github.com/devtahmid/Analysing-Market-Sales">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Analysing-Market-Sales">
+</a>
 <a href="https://github.com/adarshsc2000/BlockEstate">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshsc2000&repo=BlockEstate">
 </a>
