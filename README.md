@@ -14,8 +14,8 @@
 <a href="https://github.com/devtahmid/Rent-Your-Charger">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Rent-Your-Charger">
 </a>
-<a href="https://github.com/adarshsc2000/BlockEstate">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshsc2000&repo=BlockEstate">
+<a href="https://github.com/devtahmid/python-projects">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=python-projects">
 </a>
 <a href="https://github.com/devtahmid/Pharmacy-Management-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Pharmacy-Management-System">
@@ -25,6 +25,9 @@
 </a>
 <a href="https://github.com/devtahmid/quizzical">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=quizzical">
+</a>
+<a href="https://github.com/adarshsc2000/BlockEstate">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshsc2000&repo=BlockEstate">
 </a>
 <a href="https://github.com/devtahmid/Tenzies">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devtahmid&repo=Tenzies">
